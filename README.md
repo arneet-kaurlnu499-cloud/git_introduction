@@ -1,4 +1,5 @@
 ECE 528/L - GitHub Workshop Part I
+GitHub Workshop Part II
 Spring 2026
 
 About This Repository
